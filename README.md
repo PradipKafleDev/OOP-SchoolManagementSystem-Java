@@ -1,2 +1,2 @@
 # OOP-SchoolManagementSystem-Java
- Collage project COURSE-B01OODP101
+ This is a Collage project of Bachelor of Information Technology  COURSE-B01OODP101
